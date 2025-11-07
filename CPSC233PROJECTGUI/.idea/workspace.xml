@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CPSC233PROJECTGUI:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f1ac976-7bd0-4f1b-b773-72b3bb6cae9b" name="Changes" comment="changed command line argument">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CPSC233PROJECTGUI_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InitialSketch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML_Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;simrandeep.simrandee&quot;,
+      &quot;fullname&quot;: &quot;Simrandeep Kaur&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://csgit.ucalgary.ca/simrandeep.simrandee/cpsc233projectgui.git&quot;,
+    &quot;second&quot;: &quot;6fc6f000-be29-4d8a-bb20-47ae7f42bf74&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vSS6HDcdkoZveiTTC46GsHW9mE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Tut10.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "JUnit.TestData.executor": "Run",
+    "JUnit.TestData.reader.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/akashvirk/IdeaProjects/demo/CPSC233PROJECTGUI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/cpsc233projectgui" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="CPSC233PROJECTGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.app.Main" />
+      <module name="CPSC233PROJECTGUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestData.reader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPSC233PROJECTGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestData" />
+      <option name="METHOD_NAME" value="reader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestData.reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f1ac976-7bd0-4f1b-b773-72b3bb6cae9b" name="Changes" comment="" />
+      <created>1744136804546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744136804546</updated>
+      <workItem from="1744136805545" duration="2945000" />
+      <workItem from="1744140300701" duration="3178000" />
+      <workItem from="1744147387255" duration="22112000" />
+      <workItem from="1744345704785" duration="178000" />
+      <workItem from="1744418440496" duration="2360000" />
+      <workItem from="1744420962899" duration="303000" />
+      <workItem from="1744503952338" duration="1660000" />
+      <workItem from="1744509556197" duration="124000" />
+      <workItem from="1744509700305" duration="11000" />
+      <workItem from="1744593647335" duration="1047000" />
+      <workItem from="1744595280098" duration="8222000" />
+      <workItem from="1744909031074" duration="6174000" />
+      <workItem from="1744941546378" duration="4902000" />
+      <workItem from="1744953284048" duration="871000" />
+      <workItem from="1744978979265" duration="1987000" />
+      <workItem from="1745010847794" duration="516000" />
+      <workItem from="1745012825686" duration="1115000" />
+      <workItem from="1745021321064" duration="1560000" />
+      <workItem from="1745022918431" duration="77000" />
+      <workItem from="1745022999953" duration="865000" />
+      <workItem from="1745027518511" duration="2616000" />
+      <workItem from="1745381688895" duration="157000" />
+      <workItem from="1746554311558" duration="693000" />
+      <workItem from="1758303740013" duration="37000" />
+      <workItem from="1760542915264" duration="989000" />
+    </task>
+    <task id="LOCAL-00015" summary="executeMethod() completed">
+      <option name="closed" value="true" />
+      <created>1744154402540</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744154402540</updated>
+    </task>
+    <task id="LOCAL-00016" summary="changed layout">
+      <option name="closed" value="true" />
+      <created>1744155109861</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744155109861</updated>
+    </task>
+    <task id="LOCAL-00017" summary="code functional now">
+      <option name="closed" value="true" />
+      <created>1744162799465</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744162799466</updated>
+    </task>
+    <task id="LOCAL-00018" summary="print statements removed">
+      <option name="closed" value="true" />
+      <created>1744162887058</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744162887058</updated>
+    </task>
+    <task id="LOCAL-00019" summary="changed code to display only required text fields based on option selected">
+      <option name="closed" value="true" />
+      <created>1744164809003</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1744164809003</updated>
+    </task>
+    <task id="LOCAL-00020" summary="layout changed">
+      <option name="closed" value="true" />
+      <created>1744166694662</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744166694662</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changes made to reset error label text">
+      <option name="closed" value="true" />
+      <created>1744167486946</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744167486947</updated>
+    </task>
+    <task id="LOCAL-00022" summary="about alert created">
+      <option name="closed" value="true" />
+      <created>1744168401211</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744168401211</updated>
+    </task>
+    <task id="LOCAL-00023" summary="output formatting modified">
+      <option name="closed" value="true" />
+      <created>1744169322954</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744169322955</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added something readme">
+      <option name="closed" value="true" />
+      <created>1744418845320</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744418845321</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added something intialize">
+      <option name="closed" value="true" />
+      <created>1744419035013</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1744419035013</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added javaDocs to executeMethod">
+      <option name="closed" value="true" />
+      <created>1744419219080</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1744419219080</updated>
+    </task>
+    <task id="LOCAL-00027" summary="improved structure and added java docs to getrole">
+      <option name="closed" value="true" />
+      <created>1744419511096</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1744419511096</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added some CSS property to get jersey()">
+      <option name="closed" value="true" />
+      <created>1744420060611</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744420060611</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added some CSS property to getRole()">
+      <option name="closed" value="true" />
+      <created>1744420432698</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1744420432698</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added some CSS property  to change border color \of getName()">
+      <option name="closed" value="true" />
+      <created>1744420606173</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1744420606173</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added some CSS property  to change border color \of getTeam()">
+      <option name="closed" value="true" />
+      <created>1744420690773</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1744420690773</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added some CSS property  to change border color \of getTeam()">
+      <option name="closed" value="true" />
+      <created>1744421230387</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1744421230387</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added  prompt Text in text fields">
+      <option name="closed" value="true" />
+      <created>1744504470469</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1744504470469</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added text to textfield in Addplayer">
+      <option name="closed" value="true" />
+      <created>1744504603500</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1744504603500</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Minor change in layout of Window">
+      <option name="closed" value="true" />
+      <created>1744504709668</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1744504709668</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Fixed some bugs during display of output text Area">
+      <option name="closed" value="true" />
+      <created>1744504894608</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1744504894608</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added some drop menu">
+      <option name="closed" value="true" />
+      <created>1744599315570</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1744599315570</updated>
+    </task>
+    <task id="LOCAL-00038" summary="removed text from text fields">
+      <option name="closed" value="true" />
+      <created>1744600111923</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1744600111923</updated>
+    </task>
+    <task id="LOCAL-00039" summary="reverted changes back from Manuoptions to textfields">
+      <option name="closed" value="true" />
+      <created>1744600226587</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1744600226587</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Minor change in fxml file about bc color">
+      <option name="closed" value="true" />
+      <created>1744603509343</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1744603509343</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added java docs to MainController.java and changed date and version in all other files">
+      <option name="closed" value="true" />
+      <created>1744604366126</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1744604366126</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Improved display structure">
+      <option name="closed" value="true" />
+      <created>1744604729178</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1744604729178</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Improved display structure">
+      <option name="closed" value="true" />
+      <created>1744604871616</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1744604871616</updated>
+    </task>
+    <task id="LOCAL-00044" summary="remove that error that was displayed in terminal bc Bc">
+      <option name="closed" value="true" />
+      <created>1744606328246</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1744606328246</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added method to Display all teams">
+      <option name="closed" value="true" />
+      <created>1744637407975</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1744637407975</updated>
+    </task>
+    <task id="LOCAL-00046" summary="imporved display structure of output text">
+      <option name="closed" value="true" />
+      <created>1744639318062</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1744639318062</updated>
+    </task>
+    <task id="LOCAL-00047" summary="imporved display structure of output text">
+      <option name="closed" value="true" />
+      <created>1744639387669</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1744639387669</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added drop down menu layout">
+      <option name="closed" value="true" />
+      <created>1744911468308</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1744911468308</updated>
+    </task>
+    <task id="LOCAL-00049" summary="made drop down menu working">
+      <option name="closed" value="true" />
+      <created>1744912847264</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1744912847264</updated>
+    </task>
+    <task id="LOCAL-00050" summary="drop down working for printing player from jersy number">
+      <option name="closed" value="true" />
+      <created>1744914903060</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1744914903061</updated>
+    </task>
+    <task id="LOCAL-00051" summary="minor change to display players from new line">
+      <option name="closed" value="true" />
+      <created>1744914980159</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1744914980159</updated>
+    </task>
+    <task id="LOCAL-00052" summary="minor change to display players from new line">
+      <option name="closed" value="true" />
+      <created>1744915225628</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1744915225628</updated>
+    </task>
+    <task id="LOCAL-00053" summary="minor change to display players from new line">
+      <option name="closed" value="true" />
+      <created>1744941848178</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1744941848179</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fxml file">
+      <option name="closed" value="true" />
+      <created>1744944054912</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1744944054912</updated>
+    </task>
+    <task id="LOCAL-00055" summary="fixed run time Exception">
+      <option name="closed" value="true" />
+      <created>1744946292785</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1744946292785</updated>
+    </task>
+    <task id="LOCAL-00056" summary="variable naming changed to follow camel case">
+      <option name="closed" value="true" />
+      <created>1744972078479</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1744972078480</updated>
+    </task>
+    <task id="LOCAL-00057" summary="added styling">
+      <option name="closed" value="true" />
+      <created>1744978142606</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1744978142606</updated>
+    </task>
+    <task id="LOCAL-00058" summary="errors corrected in readme.md and styling changed">
+      <option name="closed" value="true" />
+      <created>1744981006364</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1744981006364</updated>
+    </task>
+    <task id="LOCAL-00059" summary="test case edited to account for new data in testfile.csx">
+      <option name="closed" value="true" />
+      <created>1745013189923</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1745013189924</updated>
+    </task>
+    <task id="LOCAL-00060" summary="test case edited to account for new data in testfile.csx">
+      <option name="closed" value="true" />
+      <created>1745013528609</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1745013528609</updated>
+    </task>
+    <task id="LOCAL-00061" summary="unused imports and methods deleted">
+      <option name="closed" value="true" />
+      <created>1745018991003</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1745018991004</updated>
+    </task>
+    <task id="LOCAL-00062" summary="save method changed to avoid code from crashing if user presses cancel">
+      <option name="closed" value="true" />
+      <created>1745021167133</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1745021167134</updated>
+    </task>
+    <task id="LOCAL-00063" summary="changed command line argument">
+      <option name="closed" value="true" />
+      <created>1745028728292</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1745028728293</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Minor change in layout of Window" />
+    <MESSAGE value="Fixed some bugs during display of output text Area" />
+    <MESSAGE value="added some drop menu" />
+    <MESSAGE value="removed text from text fields" />
+    <MESSAGE value="reverted changes back from Manuoptions to textfields" />
+    <MESSAGE value="Minor change in fxml file about bc color" />
+    <MESSAGE value="added java docs to MainController.java and changed date and version in all other files" />
+    <MESSAGE value="Improved display structure" />
+    <MESSAGE value="remove that error that was displayed in terminal bc Bc" />
+    <MESSAGE value="added method to Display all teams" />
+    <MESSAGE value="imporved display structure of output text" />
+    <MESSAGE value="added drop down menu layout" />
+    <MESSAGE value="made drop down menu working" />
+    <MESSAGE value="drop down working for printing player from jersy number" />
+    <MESSAGE value="minor change to display players from new line" />
+    <MESSAGE value="fxml file" />
+    <MESSAGE value="fixed run time Exception" />
+    <MESSAGE value="variable naming changed to follow camel case" />
+    <MESSAGE value="added styling" />
+    <MESSAGE value="errors corrected in readme.md and styling changed" />
+    <MESSAGE value="test case edited to account for new data in testfile.csx" />
+    <MESSAGE value="Final commit added missing javadocs" />
+    <MESSAGE value="unused imports and methods deleted" />
+    <MESSAGE value="save method changed to avoid code from crashing if user presses cancel" />
+    <MESSAGE value="changed command line argument" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed command line argument" />
+  </component>
+</project>
